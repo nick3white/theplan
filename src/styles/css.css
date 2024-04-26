@@ -1,0 +1,32 @@
+body {
+	background-color: #333;
+	margin: 0;
+	&.dark {
+		--foreground: var(--color7);
+		--background: var(--color0);
+	}
+	&:not(.dark) {
+		--background: var(--color7);
+		--foreground: var(--color0);
+	}
+	& * {
+		box-sizing: border-box;
+	}
+	& h1,
+	h3 {
+		text-shadow: 0 0 33px rgb(var(--foreground));
+	}
+}
+
+@font-face {
+	font-family: 'Argon';
+	src: url('/theplan/fonts/MonaspaceArgon-Regular.woff');
+}
+@font-face {
+	font-family: 'Neon';
+	src: url('/theplan/fonts/MonaspaceNeon-Regular.woff');
+}
+@font-face {
+	font-family: 'Xenon';
+	src: url('/theplan/fonts/MonaspaceXenon-Regular.woff');
+}
