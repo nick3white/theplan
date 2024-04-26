@@ -1,84 +1,84 @@
-.51017089605_ddc0c72502_6k {
-	--wallpaper: url('/theplan/images/51017089605_ddc0c72502_6k.jpg');
-	--background: #0b1611;
-	--foreground: #a1c1cb;
-	--color0: 11, 22, 17;
-	--color1: 41, 71, 55;
-	--color2: 40, 79, 76;
-	--color3: 33, 89, 94;
-	--color4: 77, 110, 90;
-	--color5: 111, 124, 100;
-	--color6: 50, 117, 137;
-	--color7: 161, 193, 203;
-	--color8: 112, 135, 142;
-}
-.51054570137_5357aaf2f0_6k {
-	--wallpaper: url('/theplan/images/51054570137_5357aaf2f0_6k.jpg');
-	--background: #0a0f0d;
-	--foreground: #b2c8d6;
-	--color0: 10, 15, 13;
-	--color1: 72, 83, 92;
-	--color2: 149, 29, 48;
-	--color3: 11, 104, 145;
-	--color4: 54, 105, 136;
-	--color5: 71, 117, 144;
-	--color6: 99, 143, 168;
-	--color7: 178, 200, 214;
-	--color8: 124, 140, 149;
-}
-.51138802772_10b80ea6a0_6k {
-	--wallpaper: url('/theplan/images/51138802772_10b80ea6a0_6k.jpg');
-	--background: #13100f;
-	--foreground: #c2bbb7;
-	--color0: 19, 16, 15;
-	--color1: 138, 117, 107;
-	--color2: 122, 128, 125;
-	--color3: 143, 131, 125;
-	--color4: 162, 134, 124;
-	--color5: 199, 139, 115;
-	--color6: 122, 132, 129;
-	--color7: 194, 187, 183;
-	--color8: 135, 130, 128;
-}
 .masashi-wakui-misc-1 {
-	--wallpaper: url('/theplan/images/masashi-wakui-misc-1.jpeg');
-	--background: #031a15;
-	--foreground: #cbcacb;
-	--color0: 3, 26, 21;
-	--color1: 17, 81, 97;
-	--color2: 96, 107, 85;
-	--color3: 121, 130, 84;
-	--color4: 6, 116, 146;
-	--color5: 86, 122, 135;
-	--color6: 33, 135, 159;
-	--color7: 203, 202, 203;
-	--color8: 142, 141, 142;
+  --wallpaper: url('/images/masashi-wakui-misc-1.jpg');
+  --background: #0B1611;
+  --foreground: #a1c1cb;
+  --color0: 11, 22, 17;
+  --color1: 41, 71, 55;
+  --color2: 40, 79, 76;
+  --color3: 33, 89, 94;
+  --color4: 77, 110, 90;
+  --color5: 111, 124, 100;
+  --color6: 50, 117, 137;
+  --color7: 161, 193, 203;
+  --color8: 112, 135, 142;
 }
 .masashi-wakui-misc-2 {
-	--wallpaper: url('/theplan/images/masashi-wakui-misc-2.jpeg');
-	--background: #0a0d0c;
-	--foreground: #ccd0cc;
-	--color0: 10, 13, 12;
-	--color1: 108, 88, 77;
-	--color2: 136, 75, 58;
-	--color3: 159, 103, 87;
-	--color4: 167, 134, 119;
-	--color5: 149, 158, 151;
-	--color6: 151, 169, 166;
-	--color7: 204, 208, 204;
-	--color8: 142, 145, 142;
+  --wallpaper: url('/images/masashi-wakui-misc-2.jpg');
+  --background: #0a0f0d;
+  --foreground: #b2c8d6;
+  --color0: 10, 15, 13;
+  --color1: 72, 83, 92;
+  --color2: 149, 29, 48;
+  --color3: 11, 104, 145;
+  --color4: 54, 105, 136;
+  --color5: 71, 117, 144;
+  --color6: 99, 143, 168;
+  --color7: 178, 200, 214;
+  --color8: 124, 140, 149;
 }
-.masashi-wakui-misc-7 {
-	--wallpaper: url('/theplan/images/masashi-wakui-misc-7.jpeg');
-	--background: #151310;
-	--foreground: #d0c6bd;
-	--color0: 21, 19, 16;
-	--color1: 147, 111, 87;
-	--color2: 150, 122, 104;
-	--color3: 109, 132, 122;
-	--color4: 165, 149, 66;
-	--color5: 156, 131, 112;
-	--color6: 166, 135, 115;
-	--color7: 208, 198, 189;
-	--color8: 145, 138, 132;
+.masashi-wakui-misc-3 {
+  --wallpaper: url('/images/masashi-wakui-misc-3.jpg');
+  --background: #13100f;
+  --foreground: #c2bbb7;
+  --color0: 19, 16, 15;
+  --color1: 138, 117, 107;
+  --color2: 122, 128, 125;
+  --color3: 143, 131, 125;
+  --color4: 162, 134, 124;
+  --color5: 199, 139, 115;
+  --color6: 122, 132, 129;
+  --color7: 194, 187, 183;
+  --color8: 135, 130, 128;
+}
+.masashi-wakui-misc-4 {
+  --wallpaper: url('/images/masashi-wakui-misc-4.jpg');
+  --background: #031A15;
+  --foreground: #cbcacb;
+  --color0: 3, 26, 21;
+  --color1: 17, 81, 97;
+  --color2: 96, 107, 85;
+  --color3: 121, 130, 84;
+  --color4: 6, 116, 146;
+  --color5: 86, 122, 135;
+  --color6: 33, 135, 159;
+  --color7: 203, 202, 203;
+  --color8: 142, 141, 142;
+}
+.masashi-wakui-misc-5 {
+  --wallpaper: url('/images/masashi-wakui-misc-5.jpg');
+  --background: #0a0d0c;
+  --foreground: #ccd0cc;
+  --color0: 10, 13, 12;
+  --color1: 108, 88, 77;
+  --color2: 136, 75, 58;
+  --color3: 159, 103, 87;
+  --color4: 167, 134, 119;
+  --color5: 149, 158, 151;
+  --color6: 151, 169, 166;
+  --color7: 204, 208, 204;
+  --color8: 142, 145, 142;
+}
+.masashi-wakui-misc-6 {
+  --wallpaper: url('/images/masashi-wakui-misc-6.jpg');
+  --background: #151310;
+  --foreground: #d0c6bd;
+  --color0: 21, 19, 16;
+  --color1: 147, 111, 87;
+  --color2: 150, 122, 104;
+  --color3: 109, 132, 122;
+  --color4: 165, 149, 66;
+  --color5: 156, 131, 112;
+  --color6: 166, 135, 115;
+  --color7: 208, 198, 189;
+  --color8: 145, 138, 132;
 }

@@ -3,14 +3,7 @@
 	import { base } from '$app/paths';
 	import '$css/themes.css';
 	import '$css/css.css';
-	const themes = [
-		'51017089605_ddc0c72502_6k',
-		'51054570137_5357aaf2f0_6k',
-		'51138802772_10b80ea6a0_6k',
-		'masashi-wakui-misc-1',
-		'masashi-wakui-misc-2',
-		'masashi-wakui-misc-7'
-	];
+	import { themes } from '$lib/themes';
 	const fonts = ['Argon', 'Neon', 'Xenon'];
 	const randoTheme = themes[Math.floor(Math.random() * themes.length)];
 	const randoFont = fonts[Math.floor(Math.random() * fonts.length)];
