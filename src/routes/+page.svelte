@@ -366,10 +366,12 @@
 
 	top: 15rem;
 	}
-	p  {
-	padding-inline: 2rem;
+	ul {
+	margin-block: 0;
+	list-style-type: none;
 	}
-	p {
+	p , li {
+	padding-inline: 2rem;
 		margin: 0;
 		padding: 1rem 2rem;
 		font-size: 1.1rem;
